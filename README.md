@@ -1,2 +1,2 @@
 # utility
-some test function for using cpp
+some examples to show C++ features
